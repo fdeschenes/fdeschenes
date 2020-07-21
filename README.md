@@ -1,1 +1,7 @@
-# Hi, I'm Francois 👋👨‍💻
+# Hi, I'm Francois 👋
+
+I'm a digital nomad with over 20 years of software development experience.
+
+I founded my first business in 1996 which I sold in 2005 and since co-founded [myBestHelper](https://github.com/mybesthelper), [meowbox](https://github.com/meowbox) and helped get [CareTeam](https://github.com/careteam-technologies) going. I also worked as an Engineering Lead at [Hootsuite](https://github.com/hootsuite) and most recently as Directory of Engineering at [TINT](https://github.com/hypemarks).
+
+I mentor and advise startups, help on StackOverflow and sometimes speak publicly about business, marketing and technology.
